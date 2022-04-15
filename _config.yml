@@ -1,12 +1,12 @@
 name: Pithos
-description: Pithos is the Greek name for a large storage container. The term in English is applied to such containers used among the civilizations that bordered the Mediterranean Sea in the Neolithic, the Bronze Age and the succeeding Iron Age. Pithoi were used for bulk storage, primarily for fluids and grains. They're comparable to the drums, barrels and casks of recent times.
+description: Pithos is a large container used by the ancient Greeks for bulk storage, primarily for fluids and grains. They're comparable to the drums, barrels, and casks of recent times.
 markdown: kramdown
 baseurl: /pithos
 twitter_username: anindita_basu
 github_username: AninditaBasu
 author: ab.techwriter@gmail.com
 #
-theme: minima
+#theme: minima
 #
 # remote theme
 #remote_theme: just-the-docs/just-the-docs

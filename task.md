@@ -19,7 +19,17 @@ Before you begin, make sure you're within walking distance of the sea. Then, gat
 1.  Clean the glass bottle thoroughly and put it out to dry.
 1.  Dip the quill pen into the ink and write out the following message on the parchment.
     ```
-	random message
+	Dear Mr. Potter,
+
+    We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry. Please find enclosed a list of all necessary books and equipment.
+
+    Term begins on 1 September. We await your owl by no later than 31 July.
+
+    Yours sincerely,
+
+    Minerva McGonagall
+
+    Deputy Headmistress"
 	```
 1.  Wait for the ink to dry, and then fold the parchment and place it inside the oilskin pouch.
 1.  Place the pouch inside the glass bottle and seal it.
