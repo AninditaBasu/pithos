@@ -9,5 +9,5 @@ author: ab.techwriter@gmail.com
 #theme: minima
 #
 # remote theme
-#remote_theme: just-the-docs/just-the-docs
-#logo: "/images/s_1_600.jpg"
+remote_theme: just-the-docs/just-the-docs
+logo: "/images/s_1_600.jpg"
