@@ -1,8 +1,7 @@
 # Sending bottled messages
 
-A message in a bottle is a form of communication in which a message is sealed in a container (typically a bottle) and released into a conveyance medium (typically a body of water).
+A message in a bottle is a form of communication in which a message is sealed in a container, such as a glass bottle, and released into a body of water, such as the sea.
 
-Messages in bottles have been used to send distress messages, in crowdsourced scientific studies of ocean currents, as memorial tributes, to send deceased loved ones' ashes on a final journey, to convey expedition reports, and to carry letters or reports from those believing themselves to be doomed. Invitations to prospective pen pals and letters to actual or imagined love interests have also been sent as messages in bottles.
 
 ## Prerequisites
 
