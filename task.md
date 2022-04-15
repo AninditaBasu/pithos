@@ -21,14 +21,18 @@ Before you begin, make sure you're within walking distance of the sea. Then, gat
     ```
 	Dear Mr. Potter,
 
-    We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry. Please find enclosed a list of all necessary books and equipment.
+    We are pleased to inform you that 
+	you have been accepted at Hogwarts School 
+	of Witchcraft and Wizardry. Please find 
+	enclosed a list of all necessary 
+	books and equipment.
 
-    Term begins on 1 September. We await your owl by no later than 31 July.
+    Term begins on 1 September. 
+	We await your owl by no later than 31 July.
 
     Yours sincerely,
 
     Minerva McGonagall
-
     Deputy Headmistress"
 	```
 1.  Wait for the ink to dry, and then fold the parchment and place it inside the oilskin pouch.

@@ -1,5 +1,7 @@
 # Tide tables
 
+The following table lists the two high tides of the day at 15.2993° N, 74.1240° E.
+
 <table>
 <tr>
 <th>Date</th><th>First high tide</th><th>Second high tide</th>
