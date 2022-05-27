@@ -24,13 +24,12 @@ Before you begin, make sure you're within walking distance of the sea. Then, gat
     ```
 	Dear Mr. Potter,
 
-    We are pleased to inform you that 
-	you have been accepted at Hogwarts School 
-	of Witchcraft and Wizardry. Please find 
-	enclosed a list of all necessary 
+    We are pleased to inform you that you have been accepted at Hogwarts School
+	of Witchcraft and Wizardry. Please find enclosed a list of all necessary
 	books and equipment.
 
     Term begins on 1 September. 
+	
 	We await your owl by no later than 31 July.
 
     Yours sincerely,
@@ -40,7 +39,7 @@ Before you begin, make sure you're within walking distance of the sea. Then, gat
 	```
 1.  Wait for the ink to dry, and then fold the parchment and place it inside the oilskin pouch.
 1.  Place the pouch inside the glass bottle and seal it.
-1.  Determine the time of the next high tide by referring to the tides table.
+1.  Determine the time of the next high tide by referring to the [tides table](reference).
 1.  At the next high tide, walk out to the sea and throw the glass bottle out as far as you can.
 
 The tide will carry the bottle out to the high sea and deposit it at the shore of the receiver. Wait for a reply.

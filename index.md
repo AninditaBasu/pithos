@@ -13,6 +13,6 @@ This website mentions the following containers:
 {% for item in site.data.containers %}
 
 {{ item.container }}
-: {{ item.description }}. {% if item.topic %}[See]({{item.topic}}){% endif %}
+: {{ item.description }} {% if item.topic %}[Read more]({{item.topic}}){% endif %}
 
 {% endfor %}

@@ -6,8 +6,8 @@ nav_order: 5
 
 {% include admonition.md %}
 
-I can't open the chest.
+I can't open the chest
 : Find the key. If the key is missing, take a crowbar and prise open the lid.
 
-My letter was washed out by a cloudburst.
+My letter was washed out by a cloudburst
 : Write the letter again. Then, rub a piece of wax all over it.
