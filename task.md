@@ -24,9 +24,8 @@ Before you begin, make sure you're within walking distance of the sea. Then, gat
     ```
 	Dear Mr. Potter,
 
-    We are pleased to inform you that you have been accepted at Hogwarts School
-	of Witchcraft and Wizardry. Please find enclosed a list of all necessary
-	books and equipment.
+    We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry. 
+	Please find enclosed a list of all necessary books and equipment.	
 
     Term begins on 1 September. 
 	
